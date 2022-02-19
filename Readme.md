@@ -3,7 +3,9 @@
 cloner le projet avec la commande suivante 
 
 git clone git@github.com:kkone6/flaskapp.git
+
    or
+   
 git clone https://github.com/kkone6/flaskapp.git
 
 # Build Docker Image 
